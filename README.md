@@ -1,4 +1,4 @@
-# 🤖 Audo - Your Code Buddy
+# Audo - Your Code Buddy
 
 ## Overview
 Audo is a powerful AI-powered terminal and code assistant designed to help developers, system administrators, and tech enthusiasts manage their systems and projects efficiently. With expertise in both terminal operations and code development, Audo combines the power of natural language processing with deep technical knowledge to provide accurate and helpful assistance.
@@ -33,4 +33,4 @@ Audo is a powerful AI-powered terminal and code assistant designed to help devel
 Audo is proprietary software. All rights reserved.
 
 ---
-Powered by AI 🤖
+Powered by AI
