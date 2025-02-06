@@ -1,4 +1,4 @@
-# 🤖 Audo - Your Intelligent Shell Assistant
+# 🤖 Audo - Your Code Buddy
 
 ## Overview
 Audo is a powerful AI-powered shell and code assistant designed to help developers, system administrators, and tech enthusiasts manage their systems and projects efficiently. With expertise in both system operations and code development, Audo combines the power of natural language processing with deep technical knowledge to provide accurate and helpful assistance.
